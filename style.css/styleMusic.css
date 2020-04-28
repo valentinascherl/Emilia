@@ -19,3 +19,23 @@
     font-family: Raleway;
     font-size: 60px;
 }
+h2{
+    font-family: Raleway;
+    font-size: 40px;
+}
+p{
+    font-family: Open Sans;
+    font-size: 20px;
+}
+.links{
+    font-size: 20px;
+    font-family: Open Sans;
+}
+.first{
+    font-size: 20px;
+    font-family: Open Sans;
+}
+.reproductor{
+    font-size: 20px;
+    font-family: Open Sans;
+}
