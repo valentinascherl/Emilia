@@ -1,0 +1,36 @@
+.estilo{
+    background: url(../img/emilia-home.jpg) no-repeat right top fixed;
+    background-size: contain;
+}
+.nav {
+    margin: 10px 0 0 40px;
+    line-height: 35px;
+}
+.nav ul{
+    list-style-type: none;
+}
+.redes{
+    margin-left: 30px;
+}
+.nav ul li{
+    text-align: left;
+    line-height: 15px;
+}
+.h1{
+    font-family: Work Sans;
+    font-size: 20px;
+    margin-left: 70px;
+    position: absolute;
+    top: 40%;
+    letter-spacing: 6px;
+}
+.h2{
+    font-family: Raleway;
+    font-size: 60px;
+    margin-left: 60px;
+    position: absolute;
+    top: 80%;
+    letter-spacing: 6px;
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 98%;
+}

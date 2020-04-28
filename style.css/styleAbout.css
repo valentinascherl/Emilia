@@ -1,0 +1,47 @@
+.estilo {
+    background: url(../img/emilia-about.jpg) right top fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.nav{
+    margin: 30px 5px 0 5px;
+}
+.nav ul {
+    background-color: rgba(255, 255, 255, 0.3);
+    height: 50px;
+}
+.nav ul li{
+    display: inline;
+    position: relative;
+    left: 80%;
+    text-align: right;
+    line-height: 50px;
+}
+.redes{
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+.h1 {
+    font-family: Raleway;
+    font-size: 60px;
+    width: 400px;
+    top: 30%;
+}
+
+.notices {
+    position: absolute;
+    top: 60%;
+}
+
+.h2{
+    color: mediumseagreen;
+    font-family: Open Sans;
+    font-size: 20px;
+}
+
+.h3{
+    color:mediumseagreen;
+    font-family: Open Sans;
+    font-size: 10px;
+}

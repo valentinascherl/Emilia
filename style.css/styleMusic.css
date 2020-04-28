@@ -1,0 +1,21 @@
+.nav{
+    margin: 10px 20px 0 5px;
+    background: url(../img/emilia-music-top.jpg);
+    height: 80px;
+}
+.nav ul li{
+    display: inline;
+    position: relative;
+    left: 80%;
+    text-align: right;
+    line-height: 40px;
+}
+.redes{
+    text-align: right;
+    margin-right: 10px;
+    margin-top: -5px;
+}
+.h1{
+    font-family: Raleway;
+    font-size: 60px;
+}
